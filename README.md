@@ -19,5 +19,5 @@ With “good programming,” we mean an approach to the creation of software tha
 4. evaluate results with respect to expected outcomes; and
 5. revise the product in light of failed checks and tests."
 
-
+"In short, good programming is about solving problems systematically and conveying the ideas within the code."
 
