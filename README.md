@@ -1,9 +1,9 @@
 # HtDP2e
 # http://www.ccs.neu.edu/home/matthias/HtDP2e/index.html
 
-This repo is a collection of material from How to Design Programs, Second Edition.
+This repo is a collection of code and other things as I progress through "How to Design Programs, Second Edition".
 
-I don't remember how I first came upon this material, but the more I started reading, the more interested I became. I think these quotes from the preface illustrate why:
+I don't remember how I first came upon this material, but the more I started reading, the more interested I became. Some quotes that encapsulate the author's philosphy below:
 
 "The typical course on programming teaches a “tinker until it works” approach. When it works, students exclaim “It works!” and move on. Sadly, this phrase is also the shortest lie in computing, and it has cost many people many hours of their lives. In contrast, this book focuses on habits of good programming, addressing both professional and vocational programmers.
 
